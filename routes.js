@@ -36,7 +36,7 @@ router.get("/a", (req, res) => {
     url: "https://genius.p.rapidapi.com/search",
     params: { q: "Tupac shakur" },
     headers: {
-      "X-RapidAPI-Key": "1e21171e7cmsh84a2ae759069572p150da6jsn797f6688d8dc",
+      "X-RapidAPI-Key": "",
       "X-RapidAPI-Host": "genius.p.rapidapi.com",
     },
   };
